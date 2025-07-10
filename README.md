@@ -54,7 +54,7 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN25zemQ3amxxazZnMGpwYmRwMzZ2NHJqMWlsMTU2bXhqaXZjYzJhMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RCk0zMOIDc5xzgyX7c/giphy.gif" width="80"/>
 </p>
-
+<p align="center">
 <a href="https://www.linkedin.com/in/dinnymeilinda">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </a><br>
@@ -70,7 +70,7 @@
 <a href="https://www.tiktok.com/@dinnymeii">
   <img src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white"/>
 </a>
-
+</p>
 </td>
 
 </tr>
