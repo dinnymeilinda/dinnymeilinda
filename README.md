@@ -1,8 +1,4 @@
-<h1 align="center">Hi there, I'm Dinny 👋</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
-</p>
+<h1 align="center">Hi there, I'm Dinny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> </h1>
 
 <p align="center">
   🎓 Fresh Graduate in Computer Science  
