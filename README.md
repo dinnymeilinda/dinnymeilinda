@@ -63,6 +63,12 @@
 </a><br>
 <a href="https://github.com/dinnymeilinda">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</a><br>
+<a href="https://medium.com/@dinnymeii">
+  <img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white"/>
+</a><br>
+<a href="https://www.tiktok.com/@dinnymeii">
+  <img src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white"/>
 </a>
 
 </td>
